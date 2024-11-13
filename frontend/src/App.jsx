@@ -7,8 +7,7 @@ function App() {
   return (
     <div>
       <Scraper />
-      <AnalysisComponent />
-      <SuggestionsComponent />
+      
     </div>
   );
 }
